@@ -1,4 +1,4 @@
-<img src='https://www.researchgate.net/publication/337431084/figure/fig1/AS:839678529908737@1577206370028/Samples-of-Ultrasound-breast-images-dataset.ppm'>
+<img src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-27222-6/MediaObjects/41598_2018_27222_Fig1_HTML.gif'>
 
 # Breast Cancer Ultrasound Segmentation with UNET using Tensorflow Keras
 The model takes a Greyscale Ultrasound screening for the breast and extracts the mass from it. Based on the mass then the type of cancer can be determined.
